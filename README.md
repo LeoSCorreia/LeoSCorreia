@@ -4,7 +4,7 @@ Hi 👋 My name is Leo
 Front End Developer
 -----------------------------
 
-Atualmente tenho 20 anos e desde fui apaixonado por tecnologia. Sempre gostei de descobrir como as coisas funcionam e como são criadas, me encontrei na programação e desde que isso aconteceu, me sinto apaixonado pelo que faço!
+Atualmente tenho 20 anos e sempre fui apaixonado por tecnologia. Sempre gostei de descobrir como as coisas funcionam e como são criadas, me encontrei na programação e desde que isso aconteceu, me sinto apaixonado pelo que faço!
 
 * 🌍 Eu moro no Espírito Santo, Brazil
 * ✉️ Você pode entrar em contato em leandrocorreia.300@gmail.com
