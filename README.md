@@ -9,7 +9,7 @@ Atualmente tenho 20 anos e sempre fui apaixonado por tecnologia. Sempre gostei d
 * 🌍 Eu moro no Espírito Santo, Brazil
 * ✉️ Você pode entrar em contato em leandrocorreia.300@gmail.com
 * 🤝 Eu adoro colaborar com projetos que impactam vidas
-* ⚡ Eu amo Filosofia e literatura
+* ⚡ Eu amo Filosofia e literatura!
 
 <a href="https://www.github.com/LeoSCorreia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LeoSCorreia?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
