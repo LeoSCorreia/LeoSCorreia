@@ -5,7 +5,7 @@ Front End Developer
 -----------------------------
 
 Atualmente tenho 20 anos e sempre fui apaixonado por tecnologia. Sempre gostei de descobrir como as coisas funcionam e como são criadas, me encontrei na programação e desde que isso aconteceu, me sinto apaixonado pelo que faço!
-
+* 📚 Cursando Ciencia da Computação
 * 🌍 Eu moro no Espírito Santo, Brazil
 * ✉️ Você pode entrar em contato em leandrocorreia.300@gmail.com
 * 🤝 Eu adoro colaborar com projetos que impactam vidas
